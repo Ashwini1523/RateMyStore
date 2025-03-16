@@ -1,0 +1,79 @@
+/* Full-page background with store rating image */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('https://png.pngtree.com/thumb_back/fw800/background/20240614/pngtree-customer-rating-service-satisfaction-five-star-or-excellent-illustration-image_15755208.jpg') no-repeat center center/cover;
+    position: relative;
+}
+
+/* Black overlay with 50% opacity */
+.login-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+/* Centered login box */
+.login-box {
+    position: relative;
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+    z-index: 1;
+}
+
+/* Heading */
+h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Input fields */
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Buttons */
+button {
+    width: 100%;
+    padding: 12px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+/* Register button */
+.register-btn {
+    background-color: #6c757d;
+    margin-top: 10px;
+}
+
+.register-btn:hover {
+    background-color: #6c757d;
+}

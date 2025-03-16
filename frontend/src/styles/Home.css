@@ -32,7 +32,7 @@ html {
 
 .nav-btn {
     text-decoration: none;
-    background-color: #ff9800;
+    background-color: #5fc5e4;
     color: white;
     padding: 8px 15px;
     border-radius: 5px;
@@ -40,7 +40,7 @@ html {
 }
 
 .nav-btn:hover {
-    background-color: #e68900;
+    background-color: #2a5168;
 }
 
 /* Hero Section */

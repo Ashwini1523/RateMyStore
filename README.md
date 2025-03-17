@@ -108,9 +108,12 @@ Here are some key API endpoints:
 
 
 ### 3. Rating Submission
-![Rating Submission](screenshots/rating.png)
 ![image](https://github.com/user-attachments/assets/e82df148-fcb0-47ca-8483-b7982a2cf914)
 
+### 4. Backend Tables
+![image](https://github.com/user-attachments/assets/e6b89867-ceec-4054-b9e8-0790401bd94f)
+![image](https://github.com/user-attachments/assets/4625b698-2714-438c-a658-8eb25eff2283)
+![image](https://github.com/user-attachments/assets/526ad1b5-7c7c-4077-bd90-aa8c5285044e)
 
 Make sure to add your own screenshots in the `screenshots/` directory.
 
@@ -118,9 +121,4 @@ Make sure to add your own screenshots in the `screenshots/` directory.
 
 ## Contributing
 Feel free to fork this repository and submit pull requests.
-
----
-
-## License
-This project is licensed under the MIT License.
 

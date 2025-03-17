@@ -93,7 +93,7 @@ Here are some key API endpoints:
 ### 1. Home Page
 ![Home Page]
 ![image](https://github.com/user-attachments/assets/a4599188-af7d-495c-9561-f261359fe312)
-![image](https://github.com/user-attachments/assets/03c5b9f7-12e6-438f-be80-961d9bfa26c7)
+![image](https://github.com/user-attachments/assets/f9fdbdff-9cc0-4e29-87af-3b5b7d55d10e)
 ![image](https://github.com/user-attachments/assets/7c07ed63-8459-4866-a971-40ecf00246b4)
 ![image](https://github.com/user-attachments/assets/caabe26c-84e8-4fbf-9fec-19ad6f08431d)
 
@@ -102,7 +102,6 @@ Here are some key API endpoints:
 ![image](https://github.com/user-attachments/assets/4b3e983d-803c-47ef-a02b-3a24d365ab6f)
 ![image](https://github.com/user-attachments/assets/ed41ef99-8e29-4828-925e-97490b068521)
 
-![Store Listing](screenshots/store-listing.png)
 
 ![image](https://github.com/user-attachments/assets/f08f8870-67c0-4042-aee0-3a154b063f4b)
 ![image](https://github.com/user-attachments/assets/46c5bed4-0f27-4fa3-a370-3ae50832ac57)

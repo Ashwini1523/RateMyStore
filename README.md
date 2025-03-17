@@ -91,8 +91,8 @@ Here are some key API endpoints:
 
 ## Expected Output Screenshots
 ### 1. Home Page
-![Home Page]
-![image](https://github.com/user-attachments/assets/a4599188-af7d-495c-9561-f261359fe312)
+
+![image](https://github.com/user-attachments/assets/9f82a705-094b-47d4-aa4a-e20e462dd4eb)
 ![image](https://github.com/user-attachments/assets/f9fdbdff-9cc0-4e29-87af-3b5b7d55d10e)
 ![image](https://github.com/user-attachments/assets/7c07ed63-8459-4866-a971-40ecf00246b4)
 ![image](https://github.com/user-attachments/assets/caabe26c-84e8-4fbf-9fec-19ad6f08431d)
